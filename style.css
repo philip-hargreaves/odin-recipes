@@ -1,7 +1,7 @@
-/* Centre all headers */
 .page-header {
   text-align: center;
   font-size: 36px;
+  font-family: Georgia, Garamond, serif;
 }
 
 #banner {
